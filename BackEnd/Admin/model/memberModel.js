@@ -21,4 +21,4 @@ const userSchema = mongoose.Schema({
   status: { type: String, default: "AVAILABLE" },
 });
 
-module.exports = mongoose.model("member", userSchema);
+module.exports = mongoose.model("Member", userSchema);
