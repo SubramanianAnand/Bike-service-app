@@ -20,4 +20,4 @@ const userSchema = mongoose.Schema({
   status: { type: String },
 });
 
-module.exports = mongoose.model("member", userSchema);
+module.exports = mongoose.model("Member", userSchema);
