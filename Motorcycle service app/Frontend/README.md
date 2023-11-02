@@ -22,14 +22,13 @@
 - To clone the Project
 
 ```bash
-  git clone 
+  git clone https://github.com/SubramanianAnand/Bike-service-app.git
 ```
 - Go to the Front-End project directory
 
 ```bash
-  cd Client/ca-wash-system
+  cd Frontend
 ```
-- To Run the [Font-End](https://github.com/MohitMurotiya/CarServiceApplication/blob/master/Client/car-wash-system/README.md) check this.
 
 ### For Back-End
 - Create a account in [Atlas](https://account.mongodb.com/account/login)
